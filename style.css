@@ -191,6 +191,46 @@ transform: translateY(0px) rotate(-3deg);
 100%{transform:scale(1);}
 }
 
+@media (max-width: 600px){
+
+.title{
+font-size:26px;
+padding:0 20px;
+}
+
+.gallery{
+gap:50px;
+}
+
+.photo-block{
+max-width:95%;
+}
+
+.photo-block img{
+width:100%;
+}
+
+.top-text{
+font-size:18px;
+}
+
+.bottom-text{
+font-size:16px;
+}
+
+.love-text{
+padding:0 20px;
+font-size:18px;
+}
+
+.open-btn{
+font-size:22px;
+padding:14px 25px;
+}
+
+}
+
+
 
 
 
